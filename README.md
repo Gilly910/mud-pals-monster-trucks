@@ -4,7 +4,7 @@ A tap-and-drive monster truck learning game for toddlers (ages 3–4), built for
 
 ## Play
 
-- **Online:** https://kyle910.github.io/mud-pals-monster-trucks/
+- **Online:** https://Gilly910.github.io/mud-pals-monster-trucks/
 - **Local:** open `index.html` in any modern browser.
 
 ## iPad setup
